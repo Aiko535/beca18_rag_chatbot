@@ -3,3 +3,4 @@ chroma_db_beca18/
 __pycache__/
 *.pyc
 data/*.pdf
+notebooks/.ipynb_checkpoints/
