@@ -6,5 +6,6 @@ chromadb==0.5.23
 ipywidgets==8.1.5
 tqdm==4.66.5
 python-dotenv==1.0.1
+sentence-transformers
 jupyter
 notebook
